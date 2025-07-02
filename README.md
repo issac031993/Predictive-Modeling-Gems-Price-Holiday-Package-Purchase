@@ -87,6 +87,7 @@ For the Ministry of Health of Indonesia, predicted whether married women use con
 - 📊 Correlation heatmaps & boxplots (system metrics & contraceptive data)
 - 🧩 Pairplots to uncover relationships
 - 📉 ROC curves comparing Logistic, LDA & CART
+- Please check the PRoject report attached with this repository for complete visualisation
 
 ---
 
